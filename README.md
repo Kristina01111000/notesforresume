@@ -7,6 +7,7 @@ List of Notes for resume website
 - add footer
 - fix comment page
 - fix home page
+- add logo? maybe
 
 List of notes for project
 
