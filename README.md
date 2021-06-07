@@ -8,6 +8,7 @@ List of Notes for resume website
 - fix comment page
 - fix home page
 - add logo? maybe
+- add ssl
 
 List of notes for project
 
