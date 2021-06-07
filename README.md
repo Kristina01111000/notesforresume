@@ -5,6 +5,8 @@ List of Notes for resume website
 - edit out bad pages
 - make sure i like the theme
 - add footer
+- fix comment page
+- fix home page
 
 List of notes for project
 
