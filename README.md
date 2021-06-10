@@ -10,5 +10,7 @@ List of Notes for resume website
 
 List of notes for project
 
+- applied to business plan class with wise
+
 
 - follow WP With Tom on youtube -> good tutorials
