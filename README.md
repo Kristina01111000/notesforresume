@@ -11,6 +11,7 @@ List of Notes for resume website
 List of notes for project
 
 - applied to business plan class with wise
+- should hear back before june 25th
 
 
 - follow WP With Tom on youtube -> good tutorials
