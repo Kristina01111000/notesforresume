@@ -12,6 +12,7 @@ List of notes for class
 
 - got in!
 - do checklist  in email for class, starts in july
+- finish portfolio website, email link to kimberly
 
 
 - follow WP With Tom on youtube -> good tutorials
