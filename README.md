@@ -14,6 +14,7 @@ List of notes for class
 - do checklist  in email for class, starts in july
   - finish portfolio website, email link to kimberly
   - sign up for liveplan
+    - by july 6th, make pitch in liveplan
   - NAICS code: 541511
 
 
