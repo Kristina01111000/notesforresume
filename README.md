@@ -15,12 +15,12 @@ List of notes for class
   - finish portfolio website, email link to kimberly
   - sign up for liveplan
     - make pitch in liveplan
-      - title
-      - headline
-      - problem
+      - title -
+      - headline - 
+      - problem -
+      - solution -
       - target market
       - competitors
-      - funding needs
       - financial predictions
       - milestones
       - key roles
