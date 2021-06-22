@@ -28,7 +28,7 @@ List of notes for class
       - solution -
       - target market
       - competitors
-      - financial predictions
+      - financial predictions -> is this for later?
       - milestones
       - key roles
   - NAICS code: 541511
