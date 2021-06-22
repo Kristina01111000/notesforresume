@@ -8,6 +8,13 @@ List of Notes for resume website
 - add logo? maybe
 - add ssl
 
+- get linked in up to date
+	- take skill quizzes -> need to score in the top 30% to get a badge, not get above 70%
+	- add more contacts
+- finish updating resume
+	- add meetup groups
+	- and add it to linkedin
+
 List of notes for class
 
 - got in!
