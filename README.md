@@ -27,7 +27,7 @@ List of notes for class
       - problem -
       - solution -
       - target market
-      - competitors
+      - competitors -> other developers and websites
       - financial predictions -> is this for later?
       - milestones
       - key roles
