@@ -26,11 +26,11 @@ List of notes for class
       - headline - 
       - problem -
       - solution -
-      - target market -> businesses, people who want a blog and don't want to deal with back end
-      - competitors -> other developers and websites
+      - target market -> businesses, people who want a blog and don't want to deal with back end-
+      - competitors -> other developers and websites -
       - financial predictions -> is this for later?
       - milestones ?? 
-      - key roles -> just me
+      - key roles -> just me, added picture, take better one?
   - NAICS code: 541511
 
 
