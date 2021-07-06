@@ -17,10 +17,10 @@ List of Notes for resume website
 
 List of notes for class
 
-- got in!
 - do checklist  in email for class, starts july 13th
-  - finish portfolio website, email link to kimberly
-  - NAICS code: 541511
+- finish portfolio website, email link to kimberly
+- NAICS code: 541511
+- make sure laptop will work with the class
 
 
 - follow WP With Tom on youtube -> good tutorials
