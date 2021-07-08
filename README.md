@@ -21,6 +21,8 @@ List of notes for class
 - finish portfolio website, email link to kimberly
 - NAICS code: 541511
 - make sure laptop will work with the class
+	- and git, email, zoom, eventbrite
+	- bring notepad 
 
 
 - follow WP With Tom on youtube -> good tutorials
