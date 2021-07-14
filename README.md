@@ -17,8 +17,10 @@ List of Notes for resume website
 
 List of notes for class
 
+- next class 20th
 - finish portfolio website, email link to kimberly
 - NAICS code: 541511
+
 
 
 
