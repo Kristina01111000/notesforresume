@@ -21,7 +21,7 @@ List of notes for class
 - finish portfolio website, email link to kimberly
 - NAICS code: 541511
 - do the three sections, not all 4
-
+- research help linked in document
 
 
 - follow WP With Tom on youtube -> good tutorials
