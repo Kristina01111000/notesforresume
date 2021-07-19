@@ -14,13 +14,13 @@ List of Notes for resume website
 - finish updating resume
 	- add meetup groups
 	- and add it to linkedin
-
+	- add liveplan??
 List of notes for class
 
-- next class 20th
+- next class 20th @ 5:30
 - finish portfolio website, email link to kimberly
 - NAICS code: 541511
-- do the three sections, not all 4
+- do the three sections, not 4
 	- problem
 	- solution
 	- target market sections
