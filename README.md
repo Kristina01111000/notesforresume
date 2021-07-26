@@ -24,7 +24,7 @@ List of notes for class
 	- problem -> Done
 	- solution
 	- target market sections
-	
+	- go over all sections
 - research help linked in document
 
 
