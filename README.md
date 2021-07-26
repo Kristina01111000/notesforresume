@@ -21,9 +21,10 @@ List of notes for class
 - finish portfolio website, email link to kimberly
 - NAICS code: 541511
 - do the three sections, not 4
-	- problem -> expand it?
+	- problem -> Done
 	- solution
 	- target market sections
+	
 - research help linked in document
 
 
