@@ -5,7 +5,7 @@ List of Notes for resume website
 - fix footer
 - fix comment page - not correct now, needs a plugin?
 - fix home page
-- add logo? maybe
+- add logo? maybe one in green with a k
 - add ssl - try free one
 
 - get linked in up to date
