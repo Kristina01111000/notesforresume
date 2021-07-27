@@ -15,6 +15,7 @@ List of Notes for resume website
 	- add meetup groups
 	- and add it to linkedin
 	- add liveplan??
+	
 List of notes for class
 
 - next class 20th @ 5:30
@@ -26,7 +27,7 @@ List of notes for class
 	- target market -> half done, need to know numbers for the rest
 	- target trends -> pandemic, brick and mortar harder, online based increased
 	- go over all sections
-- research help linked in document
+- research help linked in document, also the talk
 
 
 - follow WP With Tom on youtube -> good tutorials
