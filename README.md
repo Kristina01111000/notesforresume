@@ -24,7 +24,7 @@ List of notes for class
 	- problem -> Done
 	- solution -> partially done, clean it up
 	- target market -> half done
-	- target trends 
+	- target trends -> pandemic, brick and mortar harder, online based increased
 	- go over all sections
 - research help linked in document
 
