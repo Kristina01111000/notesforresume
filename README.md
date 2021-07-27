@@ -21,7 +21,7 @@ List of notes for class
 - next class 20th @ 5:30
 - finish portfolio website, email link to kimberly
 - NAICS code: 541511
-- do the three sections, not 4
+- do the sections
 	- problem -> Done
 	- solution -> done
 	- target market -> done
