@@ -23,7 +23,8 @@ List of notes for class
 - do the three sections, not 4
 	- problem -> Done
 	- solution -> partially done, clean it up
-	- target market sections
+	- target market -> half done
+	- target trends 
 	- go over all sections
 - research help linked in document
 
