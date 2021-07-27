@@ -24,8 +24,8 @@ List of notes for class
 - do the three sections, not 4
 	- problem -> Done
 	- solution -> partially done, clean it up
-	- target market -> half done, need to know numbers for the rest
-	- target trends -> pandemic, brick and mortar harder, online based increased
+	- target market -> done
+	- target trends -> done
 	- go over all sections
 	- add to kims comments
 - research help linked in document, also the talk
