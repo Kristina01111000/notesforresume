@@ -27,6 +27,7 @@ List of notes for class
 	- target market -> half done, need to know numbers for the rest
 	- target trends -> pandemic, brick and mortar harder, online based increased
 	- go over all sections
+	- add to kims comments
 - research help linked in document, also the talk
 
 
