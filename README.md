@@ -30,3 +30,4 @@ List of notes for class
 
 
 - follow WP With Tom on youtube -> good tutorials
+- notes for talk on the 4th on wp
