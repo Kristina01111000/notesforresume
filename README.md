@@ -23,11 +23,10 @@ List of notes for class
 - NAICS code: 541511
 - do the three sections, not 4
 	- problem -> Done
-	- solution -> partially done, clean it up
+	- solution -> done
 	- target market -> done
 	- target trends -> done
-	- go over all sections
-	- add to kims comments
+	- add changes based on kims comments
 - research help linked in document, also the talk
 
 
