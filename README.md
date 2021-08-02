@@ -31,9 +31,9 @@ List of notes for class
 	-competition - bulleted
 	- operations 
 		- location - bulleted
-		- technology
-		- equipment/tools
-		- regulatory requirements
+		- technology - bulleted
+		- equipment/tools - bulleted
+		- regulatory requirements - bulleted
 	- company
 		- ownership/structure
 		- history
