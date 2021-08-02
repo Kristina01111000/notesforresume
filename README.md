@@ -27,6 +27,13 @@ List of notes for class
 	- target market -> done
 	- target trends -> done
 	- add changes based on kims comments
+
+	-competition - bulleted
+	- operations 
+		- location - bulleted
+		- technology
+		- equipment/tools
+		- regulatory requirements
 - research help linked in document, also the talk
 
 
