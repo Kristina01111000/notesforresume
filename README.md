@@ -34,6 +34,12 @@ List of notes for class
 		- technology
 		- equipment/tools
 		- regulatory requirements
+	- company
+		- ownership/structure
+		- history
+		- team
+		- advisors
+		- partners/resources
 - research help linked in document, also the talk
 
 
