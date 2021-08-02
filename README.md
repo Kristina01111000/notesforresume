@@ -35,9 +35,9 @@ List of notes for class
 		- equipment/tools - bulleted
 		- regulatory requirements - bulleted
 	- company
-		- ownership/structure
+		- ownership/structure - bulleted
 		- history
-		- team
+		- team - bulleted
 		- advisors
 		- partners/resources
 - research help linked in document, also the talk
