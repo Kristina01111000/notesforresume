@@ -29,7 +29,7 @@ List of notes for class
 	- add changes based on kims comments
 
 	-competition - bulleted
-	- operations 
+	- operations -> put them into paragraphs
 		- location - bulleted
 		- technology - bulleted
 		- equipment/tools - bulleted
