@@ -46,7 +46,7 @@ List of notes for class
 		- brand and messaging
 		- sales plan
 		- pricing - bulleted
-			- sign up for email lists to learn other peoples pricing, business model 
+			- sign up for email lists to learn other peoples pricing, business model -> passive market research, also easy
 	- finish operations section
 - research help linked in document, also the talk
 
