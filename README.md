@@ -42,6 +42,10 @@ List of notes for class
 		- partners/resources
 
 	- marketing & sales section
+		- marketing plan
+		- brand and messaging
+		- sales plan
+		- pricing - bulleted
 	- finish operations section
 - research help linked in document, also the talk
 
