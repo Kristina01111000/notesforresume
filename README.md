@@ -40,6 +40,9 @@ List of notes for class
 		- team - small but done
 		- advisors
 		- partners/resources
+
+	- marketing & sales section
+	- finish operations section
 - research help linked in document, also the talk
 
 
