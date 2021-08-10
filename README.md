@@ -42,7 +42,7 @@ List of notes for class
 		- partners/resources
 
 	- marketing & sales section
-		- marketing plan
+		- marketing plan -> passable for now, needs work
 		- brand and messaging ->  done, needs work
 		- sales plan - short but done
 		- pricing - bulleted -> put into paragraphs
