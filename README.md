@@ -44,7 +44,7 @@ List of notes for class
 	- marketing & sales section
 		- marketing plan
 		- brand and messaging
-		- sales plan
+		- sales plan - short but done
 		- pricing - bulleted
 			- sign up for email lists to learn other peoples pricing, business model -> passive market research, also easy
 	- finish operations section
