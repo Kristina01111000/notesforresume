@@ -43,9 +43,9 @@ List of notes for class
 
 	- marketing & sales section
 		- marketing plan
-		- brand and messaging
+		- brand and messaging -> uvp done
 		- sales plan - short but done
-		- pricing - bulleted
+		- pricing - bulleted -> put into paragraphs
 			- sign up for email lists to learn other peoples pricing, business model -> passive market research, also easy
 	- finish operations section
 - research help linked in document, also the talk
