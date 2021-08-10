@@ -50,6 +50,8 @@ List of notes for class
 	- finish operations section
 - research help linked in document, also the talk
 
+- have at least 1 financial forecast done by next week
+
 
 - follow WP With Tom on youtube -> good tutorials
 - notes for talk on the 4th on wp
