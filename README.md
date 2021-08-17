@@ -49,6 +49,7 @@ List of notes for class
 			- sign up for email lists to learn other peoples pricing, business model -> passive market research, also easy
 	- finish operations section
 	- forecast - done
+		- fixed costs are the same if you have 1 customer or 50 customers
 - research help linked in document, also the talk
 
 
