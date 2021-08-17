@@ -51,6 +51,7 @@ List of notes for class
 - research help linked in document, also the talk
 
 - have at least 1 financial forecast done by next week
+- all sections in forecast need to be done also
 
 
 - follow WP With Tom on youtube -> good tutorials
