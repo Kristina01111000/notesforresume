@@ -50,6 +50,7 @@ List of notes for class
 	- finish operations section
 	- forecast - done
 		- fixed costs are the same if you have 1 customer or 50 customers
+	- do benchmark section
 - research help linked in document, also the talk
 
 
