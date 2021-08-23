@@ -3,10 +3,11 @@ List of Notes for resume website
 
 - get good cover image (of me or something else?)
 - fix footer
-- fix comment page - not correct now, needs a plugin?
-- fix home page
-- add logo? maybe one in green with a k
+- fix comment page - not correct now, needs a plugin? 
+	- get an email for them to go to 
+- add to  home page?
 - add ssl - try free one
+- fix all the other pages
 
 - get linked in up to date
 	- take skill quizzes -> need to score in the top 30% to get a badge, not get above 70%
