@@ -56,7 +56,7 @@ List of notes for class
 
 
 
-- finish portfolio website
+- finish portfolio website  ___> udemy course one get it done!
 - respond to kims email-> tomorrow morning!! important!!!
 
 - follow WP With Tom on youtube -> good tutorials
