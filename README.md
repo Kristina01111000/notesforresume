@@ -54,7 +54,7 @@ List of notes for class
 	- do benchmark section
 - research help linked in document, also the talk
 
-
+- requested su id, asked about supa classes giving id
 
 
 - finish portfolio website  ___> udemy course one get it done!
