@@ -8,7 +8,7 @@ List of Notes for resume website
 - add to  home page?
 - add ssl - try free one
 - fix all the other pages
-
+	- remove pages that I don't want others to see
 - get linked in up to date
 	- take skill quizzes -> need to score in the top 30% to get a badge, not get above 70%
 	- add more contacts
