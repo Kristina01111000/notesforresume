@@ -5,7 +5,7 @@ List of Notes for resume website
 - fix footer
 - fix comment page - not correct now, needs a plugin? 
 	- get an email for them to go to 
-- add to  home page?
+- add to  home page? - just a quick explanation of me now
 - add ssl - try free one
 - fix all the other pages
 	- remove pages that I don't want others to see
