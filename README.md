@@ -52,6 +52,7 @@ List of notes for class
 	- forecast - done
 		- fixed costs are the same if you have 1 customer or 50 customers
 	- do benchmark section
+	- prepare for talk (3 minutes)
 - research help linked in document, also the talk
 
 - requested su id, asked about supa classes giving id
