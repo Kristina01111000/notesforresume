@@ -74,5 +74,6 @@ List of notes for class
 	- marketing
 	- other pricing
 	- update on su library card -> might have a suid # not sure
+	- ask about company name -> new one?
 
 - follow WP With Tom on youtube -> good tutorials
