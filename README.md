@@ -54,6 +54,8 @@ List of notes for class
 		- fixed costs are the same if you have 1 customer or 50 customers
 	- do benchmark section
 	- prepare for talk (3 minutes)
+	- finish plan
+	- edit pitch
 
 - redo the pitch
 - research help linked in document, also the talk
