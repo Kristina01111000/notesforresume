@@ -73,6 +73,6 @@ List of notes for class
 	- talk about flat fee for website
 	- marketing
 	- other pricing
-	- update on su library card
+	- update on su library card -> might have a suid # not sure
 
 - follow WP With Tom on youtube -> good tutorials
