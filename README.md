@@ -66,6 +66,11 @@ List of notes for class
 	- get a new email for business inquiries
 	- add some more pages
 
-- make a meeting with kim for tomorrow
+- make a meeting with kim for tomorrow -> schedule for 11:30
+	- notes for meeting:
+	- talk about flat fee for website
+	- marketing
+	- other pricing
+	- update on su library card
 
 - follow WP With Tom on youtube -> good tutorials
