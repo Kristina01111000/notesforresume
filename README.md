@@ -97,8 +97,16 @@ List of notes for class
 
 
 Hi I'm Kristina and I am a web developer.  
-I make websites for small businesses who want to have someone else take care of their website.  
-Modern businesses really need a website to advertise their business.  
-When I make a site I primarily use wordpress, which is a website creation platform.  
-I use it because it allows very fast creation of a usable site, and it also allows the business owner to make small changes without the chance of them breaking the whole site.  So, if their hours change, they can edit that and theres not the chance that they could delete the site on accident.  Which is something that can happen.  
 
+I make attractive usable websites for small businesses who want to have someone else take care of their website.  
+
+Modern businesses really need a website to advertise their business.  
+
+When I make a site I primarily use wordpress, which is a website creation platform.  
+
+I use it because it allows very fast creation of a usable site, and it also allows the business owner to make small changes without the chance of them breaking the whole site. 
+So, if their hours change, they can edit that and theres not the chance that they could delete the site on accident.  Which is something that can and has happened.  
+
+I offer sites at a flat fee, with the  price dependent on what the client wants, and I also offer a maintenance contract, so that the client has someone to call if something goes wrong with their site.  
+
+I am also good with seo, search engine optimization, which makes the site more likely to show up higher in search engine results.  Which is good if the business wants to attract new customers.
