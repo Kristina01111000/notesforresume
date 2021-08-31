@@ -74,7 +74,8 @@ List of notes for class
 	- marketing
 	- other pricing
 	 	- maintenance fees, no maintenance higher hourly rate for fixing problems 
-	- update on su library card -> might have a suid # not sure
+	 	- have them pay for plugins? or better to have that as a cost included in price?
+	- update on su library card -> might have a suid # not sure, how to get library card
 	- ask about company name -> new one?
 
 - follow WP With Tom on youtube -> good tutorials
