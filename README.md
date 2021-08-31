@@ -92,3 +92,5 @@ List of notes for class
 - ditching hourly podcast -> look at it for pricing models
 
 - follow WP With Tom on youtube -> good tutorials
+
+- write a business coming out letter for everyone for new clients, social media push, follow accounts of people related to target market, conferences, networking events, be where tehy are, see what other peoplea re doing, direct mail, only if targeted 
