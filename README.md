@@ -73,6 +73,7 @@ List of notes for class
 	- talk about flat fee for website
 	- marketing
 	- other pricing
+	 	- maintenance fees, no maintenance higher hourly rate for fixing problems 
 	- update on su library card -> might have a suid # not sure
 	- ask about company name -> new one?
 
