@@ -113,5 +113,5 @@ I am also good with seo, search engine optimization, which makes the site more l
 
 My company is fast, reliable, and cheaper than most competitors.  
 My turnaround times are less than a week, and I take care of everything involved with creating the website.  
-So the customer doesn't need to think about getting the url, the ssl, the seo, or anything other than the content of the site.
-Once they tell me what they want the only thing they need to do is tell me if the site is what they want, or if it needs any changes.
+So the once the customer sends me the content of the site, they don't need to think about getting the url, the ssl, the seo, hosting, or anything else.
+Once they tell me are what they are expecting the only thing they need to do is tell me if the finished site is what they want, or if they want any changes.
