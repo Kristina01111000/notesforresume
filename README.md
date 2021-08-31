@@ -109,3 +109,9 @@ So, if their hours change, they can edit that and theres not the chance that the
 I offer sites at a flat fee, with the  price dependent on what the client wants, and I also offer a maintenance contract, so that the client has someone to call if something goes wrong with their site.  
 
 I am also good with seo, search engine optimization, which makes the site more likely to show up higher in search engine results.  Which is good if the business wants to attract new customers.
+
+
+My company is fast, reliable, and cheaper than most competitors.  
+My turnaround times are less than a week, and I take care of everything involved with creating the website.  
+So the customer doesn't need to think about getting the url, the ssl, the seo, or anything other than the content of the site.
+Once they tell me what they want the only thing they need to do is tell me if the site is what they want, or if it needs any changes.
