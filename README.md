@@ -80,7 +80,7 @@ List of notes for class
 	- brianna wright-> for business structure advise
 
 - flat fee for expertise compared to time
-- be really clear about target marketlower end 1200 bucks lower end, with no time to spare
+- be really clear about target market lower end for her 1200 bucks lower end, with no time to spare
 - always do discovery call about how complicated the site is
 	- how nice 
 	- how functional 
@@ -94,3 +94,11 @@ List of notes for class
 - follow WP With Tom on youtube -> good tutorials
 
 - write a business coming out letter for everyone for new clients, social media push, follow accounts of people related to target market, conferences, networking events, be where tehy are, see what other peoplea re doing, direct mail, only if targeted 
+
+
+Hi I'm Kristina and I am a web developer.  
+I make websites for small businesses who want to have someone else take care of their website.  
+Modern businesses really need a website to advertise their business.  
+I primarily use wordpress, which is a website creation platform.  
+I use it because it allows very fast creation of a usable site, and it also allows the business owner to make small changes without the chance of them breaking the whole site.  
+
