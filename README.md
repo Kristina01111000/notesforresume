@@ -99,6 +99,6 @@ List of notes for class
 Hi I'm Kristina and I am a web developer.  
 I make websites for small businesses who want to have someone else take care of their website.  
 Modern businesses really need a website to advertise their business.  
-I primarily use wordpress, which is a website creation platform.  
-I use it because it allows very fast creation of a usable site, and it also allows the business owner to make small changes without the chance of them breaking the whole site.  
+When I make a site I primarily use wordpress, which is a website creation platform.  
+I use it because it allows very fast creation of a usable site, and it also allows the business owner to make small changes without the chance of them breaking the whole site.  So, if their hours change, they can edit that and theres not the chance that they could delete the site on accident.  Which is something that can happen.  
 
