@@ -106,7 +106,7 @@ I offer sites at a flat fee, with the  price dependent on what the client wants,
 
 I am also good with seo, search engine optimization, which makes the site more likely to show up higher in search engine results.  Which is good if the business wants to attract new customers.
 
-My company is fast, reliable, and cheaper than most competitors.  
+My company is fast, reliable.  
 My turnaround times are less than a week, and I take care of everything involved with creating the website.  
 So the once the customer sends me the content of the site, they don't need to think about getting the url, the ssl, the seo, hosting, or anything else.
 Once they tell me are what they are expecting the only thing they need to do is tell me if the finished site is what they want, or if they want any changes.
