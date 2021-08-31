@@ -100,7 +100,6 @@ Hi I'm Kristina and I am a web developer.
 
 I make attractive usable websites for small businesses who want to have someone else take care of their website.  
 
-Modern businesses really need a website to advertise their business.  
 
 When I make a site I primarily use wordpress, which is a website creation platform.  
 
