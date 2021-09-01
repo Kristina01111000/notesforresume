@@ -24,40 +24,11 @@ List of notes for class
 - finish portfolio website, email link to kimberly
 - NAICS code: 541511
 - do the sections
-	- problem -> Done
-	- solution -> done
-	- target market -> done
-	- target trends -> done
-	- add changes based on kims comments
-
-	-competition - bulleted
-	- operations -> put them into paragraphs
-		- location - bulleted
-		- technology - bulleted
-		- equipment/tools - bulleted
-		- regulatory requirements - bulleted
-	- company
-		- ownership/structure - small but done
-		- history- small but done
-		- team - small but done
-		- advisors
-		- partners/resources
-
-	- marketing & sales section
-		- marketing plan -> passable for now, needs work
-		- brand and messaging ->  done, needs work
-		- sales plan - short but done
-		- pricing - bulleted -> put into paragraphs
-			- sign up for email lists to learn other peoples pricing, business model -> passive market research, also easy
-	- finish operations section
-	- forecast - done
+		- sign up for email lists to learn other peoples pricing, business model -> passive market research, also easy
 		- fixed costs are the same if you have 1 customer or 50 customers
-	- do benchmark section
-	- prepare for talk (3 minutes)
-	- finish plan
-	- edit pitch
+		- go over all plan sections
 
-- redo the pitch
+		- redo the pitch
 - research help linked in document, also the talk
 
 - requested su id, asked about supa classes giving id
