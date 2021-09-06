@@ -39,24 +39,23 @@ List of notes for class
 	- get a new email for business inquiries
 	- add some more pages
 
-- make a meeting with kim for tomorrow -> schedule for 11:30
-	- notes for meeting:
-	- talk about flat fee for website
-	- marketing
+
+Notes from meeting:
+	
+
 	- other pricing
 	 	- maintenance fees, no maintenance higher hourly rate for fixing problems 
 	 	- have them pay for plugins? or better to have that as a cost included in price?
 	- update on su library card -> might have a suid # not sure, how to get library card
 	- ask about company name -> new one? new company name  -> dba doing business as $40 with county clerk, can be added to an llc, keep structure as acs but checks can be made out to fictional name
 	- brianna wright-> for business structure advise
-
-- flat fee for expertise compared to time
-- be really clear about target market lower end for her 1200 bucks lower end, with no time to spare
-- always do discovery call about how complicated the site is
-	- how nice 
-	- how functional 
-	- price on if I have to write the copy
-	- price based on what they get, not how long it takes
+	- flat fee for expertise compared to time, not payed for hours, paid for site
+	- be really clear about target market lower end for her 1200 bucks lower end, with no time to spare
+	- always do discovery call about how complicated the site is
+		- how nice 
+		- how functional 
+		- price on if I have to write the copy
+		- price based on what they get, not how long it takes
 
 - search in industry charts and  on google for prices 
 
