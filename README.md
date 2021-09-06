@@ -61,7 +61,7 @@ Notes from meeting:
 
 - sign up for after course call
 - set up call with lavender lady
-	- sent email, waiting on reply
+	- call on friday at noon, zoom link in email
 
 Hi I'm Kristina and I am a web developer.  
 I make attractive usable websites for small businesses who want to have someone else take care of their website.  
