@@ -20,19 +20,14 @@ List of Notes for resume website
 	
 List of notes for class
 
-- next class 20th @ 5:30
 - finish portfolio website, email link to kimberly
-- NAICS code: 541511
+
 - do the sections
 		- sign up for email lists to learn other peoples pricing, business model -> passive market research, also easy
 		- fixed costs are the same if you have 1 customer or 50 customers
 		- go over all plan sections
 
-		- redo the pitch
 - research help linked in document, also the talk
-
-- requested su id, asked about supa classes giving id
-
 
 - finish portfolio website  ___> udemy course one get it done!
 	- finish pictures, content class, did logo
@@ -42,7 +37,6 @@ List of notes for class
 
 Notes from meeting:
 	
-
 	- other pricing
 	 	- maintenance fees, no maintenance higher hourly rate for fixing problems 
 	 	- have them pay for plugins? or better to have that as a cost included in price?
@@ -67,6 +61,7 @@ Notes from meeting:
 
 - sign up for after course call
 - set up call with lavender lady
+	- sent email, waiting on reply
 
 Hi I'm Kristina and I am a web developer.  
 I make attractive usable websites for small businesses who want to have someone else take care of their website.  
