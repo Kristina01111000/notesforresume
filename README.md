@@ -60,8 +60,7 @@ Notes from meeting:
 - write a business coming out letter for everyone for new clients, social media push, follow accounts of people related to target market, conferences, networking events, be where tehy are, see what other peoplea re doing, direct mail, only if targeted 
 
 - sign up for after course call
-- set up call with lavender lady
-	- call on friday at noon, zoom link in email
+- at 1:10 today
 
 Hi I'm Kristina and I am a web developer.  
 I make attractive usable websites for small businesses who want to have someone else take care of their website.  
