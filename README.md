@@ -61,8 +61,8 @@ Notes from meeting:
 
 - sign up for after course call
 - at 1:10 today
-	- breakout rooms were great, 
-	- the lectures were kindo tiring to get through when they were the wohole time, maybe split it up with a breakout room in between sections?
+	- breakout rooms were great
+	- the lectures were kinda tiring to get through when they were the whole time, maybe split it up with a breakout room in between different sections?
 	- put all the course notes in one google file
 	- also have a calendar in the google file that has the times for the class and the optional sessions, the zoom links and update it after with the zoom links to the recording
 
