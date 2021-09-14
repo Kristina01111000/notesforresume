@@ -61,6 +61,10 @@ Notes from meeting:
 
 - sign up for after course call
 - at 1:10 today
+	- breakout rooms were great, 
+	- the lectures were kindo tiring to get through when they were the wohole time, maybe split it up with a breakout room in between sections?
+	- put all the course notes in one google file
+
 
 Hi I'm Kristina and I am a web developer.  
 I make attractive usable websites for small businesses who want to have someone else take care of their website.  
