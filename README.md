@@ -16,16 +16,13 @@ List of Notes for resume website
 - finish updating resume
 	- add meetup groups
 	- and add it to linkedin
-	- add liveplan??
 	
-List of notes for class
 
 - finish portfolio website, email link to kimberly
 
-- do the sections
 		- sign up for email lists to learn other peoples pricing, business model -> passive market research, also easy
 		- fixed costs are the same if you have 1 customer or 50 customers
-		- go over all plan sections
+
 
 - research help linked in document, also the talk
 
@@ -34,7 +31,9 @@ List of notes for class
 	- get a new email for business inquiries
 	- add some more pages
 
-
+- email kim for help logging into su library
+- email kim website link when im done
+- 
 Notes from meeting:
 	
 	- other pricing
