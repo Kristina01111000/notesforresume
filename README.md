@@ -59,14 +59,6 @@ Notes from meeting:
 
 - write a business coming out letter for everyone for new clients, social media push, follow accounts of people related to target market, conferences, networking events, be where tehy are, see what other peoplea re doing, direct mail, only if targeted 
 
-- sign up for after course call
-- at 1:10 today
-	- breakout rooms were great
-	- the lectures were kinda tiring to get through when they were the whole time, maybe split it up with a breakout room in between different sections?
-	- put all the course notes in one google file
-	- also have a calendar in the google file that has the times for the class and the optional sessions, the zoom links and update it after with the zoom links to the recording
-
-
 Hi I'm Kristina and I am a web developer.  
 I make attractive usable websites for small businesses who want to have someone else take care of their website.  
 When I make a site I primarily use wordpress, which is a website creation platform.  
