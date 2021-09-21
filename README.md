@@ -57,6 +57,9 @@ Notes from meeting:
 
 - follow WP With Tom on youtube -> good tutorials
 
+
+- clean up github frontpage, 
+- 
 - write a business coming out letter for everyone for new clients, social media push, follow accounts of people related to target market, conferences, networking events, be where tehy are, see what other peoplea re doing, direct mail, only if targeted 
 
 Hi I'm Kristina and I am a web developer.  
