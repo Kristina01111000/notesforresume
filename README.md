@@ -5,6 +5,7 @@ List of Notes for resume website
 - fix footer
 - fix comment page - not correct now, needs a plugin? 
 	- get an email for them to go to 
+- fix contact form, not working
 - add to  home page? - just a quick explanation of me now
 - put talk on homepage? at bottom of this page, better than what's there
 - add ssl - try free one
