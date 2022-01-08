@@ -77,3 +77,17 @@ My company is fast, reliable.
 My turnaround times are less than a week, and I take care of everything involved with creating the website.  
 So the once the customer sends me the content of the site, they don't need to think about getting the url, the ssl, the seo, hosting, or anything else.
 Once they tell me are what they are expecting the only thing they need to do is tell me if the finished site is what they want, or if they want any changes.
+
+
+
+Experience before working:
+decide how long you want to be in experience mode
+have you learned enough skills?
+when are you ready to apply?
+resume, where, when you want to wirk
+areas to gain experience
+- internship/shadowing -> not really for web development
+- frontendmentor.com
+- create client projects -> quality of projects over quantity
+- buddy up with a professional
+- teach, learn while you teach
