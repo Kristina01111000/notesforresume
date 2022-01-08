@@ -91,3 +91,10 @@ areas to gain experience
 - create client projects -> quality of projects over quantity
 - buddy up with a professional
 - teach, learn while you teach
+
+portfolio:
+- image 
+- bio 
+- skills 
+- projects 
+- contact info
