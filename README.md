@@ -99,11 +99,11 @@ portfolio:
 - projects 
 - contact info
 
-
-gofullpage.com
-mockupphone.com
-fiverr.com
+list of good websites
+gofullpage.com -> make a screengrab of a whole site
+mockupphone.com -> show whole screengrab
+fiverr.com -> for photo editing, editing copy
 google fonts
-coolors.co -> color styles
+coolors.co -> color/styles
 flaticon.com -> icons
 netlify.com -> deploy projects
