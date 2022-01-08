@@ -98,3 +98,12 @@ portfolio:
 - skills 
 - projects 
 - contact info
+
+
+gofullpage.com
+mockupphone.com
+fiverr.com
+google fonts
+coolors.co -> color styles
+flaticon.com -> icons
+netlify.com -> deploy projects
