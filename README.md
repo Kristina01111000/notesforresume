@@ -107,3 +107,6 @@ google fonts
 coolors.co -> color/styles
 flaticon.com -> icons
 netlify.com -> deploy projects
+
+
+- Need to update personal website, its rough
