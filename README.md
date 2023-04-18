@@ -110,3 +110,7 @@ netlify.com -> deploy projects
 
 
 - Need to update personal website, its rough
+
+
+
+- need to fix the pages for the website, i don't need links to my projects, get a new picture
