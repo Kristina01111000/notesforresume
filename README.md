@@ -122,3 +122,4 @@ netlify.com -> deploy projects
 - remove java projects? 
 - leave tetris
 - tracker stops people from clicking on the page, so remove it
+- remove the welcome page from the top menu
