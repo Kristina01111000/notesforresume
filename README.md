@@ -3,7 +3,7 @@ List of Notes for resume website
 - come up wtih company name
 - get good cover image (of me or something else?)
 - fix footer
-- add to  home page? - just a quick explanation of me now
+- add something else to home page? - just a quick explanation of me now
 - put talk on homepage? at bottom of this page, better than what's there
 - add ssl - try free one
 - fix all the other pages
@@ -120,3 +120,4 @@ Website to do list:
 - tracker stops people from clicking on the page, so remove it
 - remove the welcome page from the top menu
 - have to edit top menu in appearance -> editor -> header
+- do i even have links to my sites on there?
