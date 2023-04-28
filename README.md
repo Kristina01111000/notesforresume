@@ -119,3 +119,6 @@ netlify.com -> deploy projects
 - fix the contact page, it doessn't work
 - stop comments on pages
 - remove form validation/ put it somewhere else
+- remove java projects? 
+- leave tetris
+- tracker stops people from clicking on the page, so remove it
