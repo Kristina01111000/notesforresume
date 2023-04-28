@@ -121,3 +121,4 @@ Website to do list:
 - remove the welcome page from the top menu
 - have to edit top menu in appearance -> editor -> header
 - do i even have links to my sites on there?
+- figure out a better color scheme, its reallly plain right now
