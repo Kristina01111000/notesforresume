@@ -117,3 +117,5 @@ netlify.com -> deploy projects
 - need a new theme, two of them have issues when i activate tehm
 - figure out the wordpress editor issue, also the menu problem (can't edit menu)
 - fix the contact page, it doessn't work
+- stop comments on pages
+- remove form validation/ put it somewhere else
