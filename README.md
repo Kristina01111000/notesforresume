@@ -122,3 +122,4 @@ Website to do list:
 - leave tetris
 - tracker stops people from clicking on the page, so remove it
 - remove the welcome page from the top menu
+- have to edit top menu in appearance -> editor -> header
