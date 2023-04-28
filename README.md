@@ -111,13 +111,12 @@ netlify.com -> deploy projects
 
 - Need to update personal website, its rough
 
-
+Website to do list:
 
 - need to fix the pages for the website, i don't need links to my projects, get a new picture
 - need a new theme, two of them have issues when i activate tehm
 - figure out the wordpress editor issue, also the menu problem (can't edit menu)
 - fix the contact page, it doessn't work
-- stop comments on pages
 - remove form validation/ put it somewhere else
 - remove java projects? 
 - leave tetris
