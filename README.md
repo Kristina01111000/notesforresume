@@ -106,6 +106,7 @@ flaticon.com -> icons
 netlify.com -> deploy projects
 
 
+- have to edit top menu in appearance -> editor -> header
 - Need to update personal website, its rough
 
 Website to do list:
@@ -117,6 +118,6 @@ Website to do list:
 - remove form validation/ put it somewhere else
 - remove java projects? 
 - leave tetris
-- have to edit top menu in appearance -> editor -> header
 - do i even have links to my sites on there?
 - figure out a better color scheme, its reallly plain right now, do i want the blue i had before? or maybe green? this is a sale site, so it needs to look good
+- get a logo
