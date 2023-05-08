@@ -1,6 +1,6 @@
 # notesforresume
 List of Notes for resume website
-- come up wtih company name
+- come up wtih company name - Kristina's web development?
 - get good cover image (of me or something else?)
 - fix footer
 - add something else to home page? - just a quick explanation of me now
