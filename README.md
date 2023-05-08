@@ -89,21 +89,22 @@ areas to gain experience
 - buddy up with a professional
 - teach, learn while you teach
 
-portfolio:
+portfolio site needs:
 - image 
 - bio 
 - skills 
 - projects 
 - contact info
+- need new email address for this, or just a contact page app?
 
 list of good websites
-gofullpage.com -> make a screengrab of a whole site
-mockupphone.com -> show whole screengrab
-fiverr.com -> for photo editing, editing copy
-google fonts
-coolors.co -> color/styles
-flaticon.com -> icons
-netlify.com -> deploy projects
+- gofullpage.com -> make a screengrab of a whole site
+- mockupphone.com -> show whole screengrab
+- fiverr.com -> for photo editing, editing copy
+- google fonts
+- coolors.co -> color/styles
+- flaticon.com -> icons
+- netlify.com -> deploy projects
 
 
 - have to edit top menu in appearance -> editor -> header
