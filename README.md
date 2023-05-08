@@ -96,6 +96,7 @@ portfolio site needs:
 - projects 
 - contact info
 - need new email address for this, or just a contact page app?
+- need a better color shceme, probably creme and blue, or grey and blue are good ones
 
 list of good websites
 - gofullpage.com -> make a screengrab of a whole site
