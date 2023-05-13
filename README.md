@@ -123,3 +123,8 @@ Website to do list:
 - figure out a better color scheme, its reallly plain right now, do i want the blue i had before? or maybe green? this is a sale site, so it needs to look good
 - get a logo
 - add my talk above to the home page, edit it so it fits better
+
+
+
+Ai talk notes:
+what do i think?
