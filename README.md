@@ -130,3 +130,4 @@ Ai talk notes:
 what do i think?
 naturally biased based on who's building it,
 is it going to decrease/remove jobs
+writing cover letters?
