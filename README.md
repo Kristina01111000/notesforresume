@@ -117,7 +117,7 @@ Website to do list:
 - need a new theme, two of them have issues when i activate them
 - fix the contact page, it is a draft now, just put in the wp contact forms plugin
 - remove form validation/ put it somewhere else
-- remove java projects? 
+- remove java projects? yes, make the page a draft page, so it is easy to add back if wanted
 - leave tetris
 - do i even have links to my sites on there?
 - figure out a better color scheme, its reallly plain right now, do i want the blue i had before? or maybe green? this is a sale site, so it needs to look good
