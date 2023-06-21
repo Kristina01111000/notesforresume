@@ -126,6 +126,7 @@ Website to do list:
 - need to figure out the theme, maybe just nuke the site and restart it
 - site updates are an issue, deleted some old themes
 - deleted the contact form, need a new one, just use the wp one
+- deleted a buch of unused plugins, see if that fixes the site loading problem
 
 Ai talk notes:
 what do i think?
