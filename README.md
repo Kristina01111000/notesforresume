@@ -124,7 +124,7 @@ Website to do list:
 - get a logo
 - add my talk above to the home page, edit it so it fits better
 - need to figure out the theme, maybe just nuke the site and restart it
-
+- site updates are an issue, deleted some old themes
 
 Ai talk notes:
 what do i think?
