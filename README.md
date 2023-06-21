@@ -109,13 +109,12 @@ list of good websites
 
 
 - have to edit top menu in appearance -> editor -> header
-- Need to update personal website, its rough
+
 
 Website to do list:
 
 - need to fix the pages for the website, i don't need links to my projects, get a new picture
 - need a new theme, two of them have issues when i activate them
-- fix the contact page, it is a draft now, just put in the wp contact forms plugin
 - remove form validation/ put it somewhere else
 - remove java projects? yes, make the page a draft page, so it is easy to add back if wanted
 - leave tetris
