@@ -133,3 +133,7 @@ naturally biased based on who's building it,
 is it going to decrease/remove jobs
 writing cover letters?
 medical changes, diagnosing ?
+
+
+look at notes on desktop for resume advice
+also look at wework
