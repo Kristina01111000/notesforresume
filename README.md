@@ -140,5 +140,8 @@ also look at wework
 
 
 
-Need my 2022 AGI (adjusted gross income) for taxes, try to pay online
-or get the pin
+Need my 2022 AGI (adjusted gross income) for taxes, 75319
+
+
+
+-> check that it was removed from bank account on friday, if not pay it
