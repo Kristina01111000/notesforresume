@@ -141,7 +141,7 @@ also look at wework
 
 
 Need my 2022 AGI (adjusted gross income) for taxes, 75319
-
+Check on friday to see if the payment was removed, if not pay online
 
 
 -> check that it was removed from bank account on friday, if not pay it
