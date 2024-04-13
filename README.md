@@ -145,3 +145,5 @@ Check on friday to see if the payment was removed, if not pay online
 
 
 -> check that it was removed from bank account on friday, if not pay it
+
+canva.com for good powerpoint templates -> free
