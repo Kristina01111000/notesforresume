@@ -153,7 +153,7 @@ lemoyne has a certificate in computer programming
 cio.com hiring the mist indemand tech jobs -> look at the article, look into certificates
 https://www.cio.com/article/230935/hiring-the-most-in-demand-tech-jobs-for-2021.html
 
-Google ceritifcates:
+Google ceritifcates: -> looks like its $49 a month, could finish them faster than the listed time (6 months)
 
 https://grow.google/certificates/
 
