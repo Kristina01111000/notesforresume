@@ -151,3 +151,10 @@ canva.com for good powerpoint templates -> free
 look into google certifications b/c they look good on resume
 lemoyne has a certificate in computer programming
 cio.com hiring the mist indemand tech jobs -> look at the article, look into certificates
+https://www.cio.com/article/230935/hiring-the-most-in-demand-tech-jobs-for-2021.html
+
+Google ceritifcates:
+
+https://grow.google/certificates/
+
+Lemoyne: https://www.lemoyne.edu/Values/In-the-Community/ERIE21/Certificate-in-Computer-Programming
