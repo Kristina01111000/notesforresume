@@ -147,3 +147,7 @@ Check on friday to see if the payment was removed, if not pay online
 -> check that it was removed from bank account on friday, if not pay it
 
 canva.com for good powerpoint templates -> free
+
+look into google certifications b/c they look good on resume
+lemoyne has a certificate in computer programming
+cio.com hiring the mist indemand tech jobs -> look at the article, look into certificates
