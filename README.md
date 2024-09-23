@@ -158,3 +158,8 @@ Google ceritifcates: -> looks like its $49 a month, could finish them faster tha
 https://grow.google/certificates/
 
 Lemoyne: https://www.lemoyne.edu/Values/In-the-Community/ERIE21/Certificate-in-Computer-Programming
+
+
+
+
+- figure out if upwork is worth it, so far nothing
