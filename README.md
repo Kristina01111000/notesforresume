@@ -163,3 +163,8 @@ Lemoyne: https://www.lemoyne.edu/Values/In-the-Community/ERIE21/Certificate-in-C
 
 
 - figure out if upwork is worth it, so far nothing
+
+
+
+
+need to update my website
